@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: auto;
+  text-align: center;
+}
+
+.btn {
+   height: 3.2rem;
+   width: 8rem;
+   margin-top: 1rem;
+  text-align: center;
+}
+
+.search {
+  height: 2rem;
+  width: 20rem;
+}
+
+
+
+
+
